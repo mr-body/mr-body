@@ -10,8 +10,8 @@
 
 <td>
 
-| [42 Launda]([https://github.com/pasqualerossi/42-Piscine/tree/main](https://42luanda.com/))  | [ft_printf](https://github.com/mr-body/ft_printf)) | [libft](https://github.com/mr-body/libft)) | [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) | [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) | [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) | [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) | [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) | [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) |
-|--|--|--|--|--|--|--|--|--|
+| [42 Launda]([https://github.com/pasqualerossi/42-Piscine/tree/main](https://42luanda.com/))  | [ft_printf](https://github.com/mr-body/ft_printf) | [libft](https://github.com/mr-body/libft) | [gnl](https://github.com/mr-body/gnl_42) | [Born2BeRoot](https://github.com/mr-body/Born2BeRoot)|
+|--|--|--|--|--|
 
 </td> </tr> </table>
 
