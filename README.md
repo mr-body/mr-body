@@ -10,7 +10,7 @@
 
 <td>
 
-| [42 Launda]([https://github.com/pasqualerossi/42-Piscine/tree/main](https://42luanda.com/))  | [ft_printf](https://github.com/mr-body/ft_printf) | [libft](https://github.com/mr-body/libft) | [gnl](https://github.com/mr-body/gnl_42) | [Born2BeRoot](https://github.com/mr-body/Born2BeRoot)|
+| [42 Launda]  | [ft_printf](https://github.com/mr-body/ft_printf) | [libft](https://github.com/mr-body/libft) | [gnl](https://github.com/mr-body/gnl_42) | [Born2BeRoot](https://github.com/mr-body/Born2BeRoot)|
 |--|--|--|--|--|
 
 </td> </tr> </table>
@@ -23,7 +23,7 @@
 
 <td>
 
-| [Projects](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) | [androbridge](https://github.com/mr-body/androbridge) | [NIF_API](https://github.com/mr-body/NIF_API) | [Desktop-Box](https://github.com/mr-body/Desktop-Box) | [data-analisy](https://github.com/mr-body/data-analisy) | [ShopBox](https://github.com/mr-body/ShopBox) |
+| [My projects] | [androbridge](https://github.com/mr-body/androbridge) | [NIF_API](https://github.com/mr-body/NIF_API) | [Desktop-Box](https://github.com/mr-body/Desktop-Box) | [data-analisy](https://github.com/mr-body/data-analisy) | [ShopBox](https://github.com/mr-body/ShopBox) |
 |--|--|--|--|--|--|
 
 </td> </tr> </table>
