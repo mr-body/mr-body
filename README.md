@@ -21,8 +21,8 @@
 
 <td>
 
-| 42 Launda  | [ft_printf](https://github.com/mr-body/ft_printf) | [libft](https://github.com/mr-body/libft) | [gnl](https://github.com/mr-body/gnl_42) | [Born2BeRoot](https://github.com/mr-body/Born2BeRoot)|
-|--|--|--|--|--|
+| 42 Launda  | [ft_printf](https://github.com/mr-body/ft_printf) | [libft](https://github.com/mr-body/libft) | [gnl](https://github.com/mr-body/gnl_42) | [Born2BeRoot](https://github.com/mr-body/Born2BeRoot)| [Minitalk](https://github.com/mr-body/minitalk)|
+|--|--|--|--|--|--|
 
 </td> </tr> </table>
 
