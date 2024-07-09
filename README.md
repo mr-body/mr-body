@@ -56,22 +56,6 @@
 </tr> </table>
 
 
-<table>
-<tr>
-<th align="left"> &nbsp; Common Core Projects</th>
-</tr>
-<tr>
-
-<td>
-
-| waalexan | [Libft](https://github.com/mr-body/libft) | [Born2BeRoot](https://github.com/mr-body/Born2BeRoot)  | [Printf](https://github.com/mr-body/ft_printf)   | [Get_Next_Line](https://github.com/mr-body/gnl_42)
-|--|--|--|--|--|
-
-</td>
-
-
-</tr> </table>
-
 <br>
 
 
