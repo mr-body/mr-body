@@ -1,5 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=004C00F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Mr.</Body>;I'm+18+years+old;I'm+a+Software+Developer;I'am+from+Angola;I+Study+at+42+Luanda;welcome%3A)](https://git.io/typing-svg)
 
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<pre>
+Hi! 👋, I'm <i>Gildo Komba.</i>
+Intra: <i>gkomba</i>
+<ul>
+   <li>🌱 I'm programming since 2024. The first programming language I learned was C. 
+   I'm currently studying at @42School in Luanda, Angola.
+   Here I'm posting some of the projects I do during my curriculum.</li>
+</ul>
+</pre>
+[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomba&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/gkomba)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
