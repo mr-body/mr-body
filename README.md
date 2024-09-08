@@ -1,11 +1,11 @@
 # Walter Santana
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=004C00F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Mr.</Body>;I'm+18+years+old;I'm+a+Software+Developer;I'am+from+Angola;I+Study+at+42+Luanda;welcome%3A)](https://git.io/typing-svg)
 
-## Olá! 👋
+## Hello! 👋
 
-Meu nome é **Walter Alexandre Santana** e tenho 18 anos. Sou um desenvolvedor de software de **Angola**, atualmente estudando na **42 Luanda**.
+My name is **Walter Alexandre Santana** and I am 18 years old. I am a software developer from **Angola**, currently studying at **42 Luanda**.
 
-🌱 Comecei a programar em 2024 e a primeira linguagem que aprendi foi **C**. Atualmente, estou me aprofundando em várias tecnologias e projetos enquanto estudo na 42.
+🌱 I started programming in 2024, and the first language I learned was **C**. Currently, I am diving into various technologies and projects while studying at 42.
 
 ## Tecnologias e Ferramentas
 
@@ -49,10 +49,10 @@ Meu nome é **Walter Alexandre Santana** e tenho 18 anos. Sou um desenvolvedor d
 
 | Projeto | Descricao |
 |--|--|
-| [androbridge](https://github.com/mr-body/androbridge) | Controle de celular adb + scrcpy desktop |
-| [NIF_API](https://github.com/mr-body/NIF_API) | API para consulta de NIF|
-| [Desktop-Box](https://github.com/mr-body/Desktop-Box) | APP de gestao de stock em C#|
-| [ShopBox](https://github.com/mr-body/ShopBox) | Systema de evendas online python + Flask |
+| [androbridge](https://github.com/mr-body/androbridge) | ADB + scrcpy desktop cell phone control |
+| [NIF_API](https://github.com/mr-body/NIF_API) | API for NIF lookup|
+| [Desktop-Box](https://github.com/mr-body/Desktop-Box) |Stock management app in C# |
+| [ShopBox](https://github.com/mr-body/ShopBox) | Online sales system in Python + Flask|
 
 ## Estatísticas
 
@@ -61,8 +61,8 @@ Meu nome é **Walter Alexandre Santana** e tenho 18 anos. Sou um desenvolvedor d
 
 ## Vamos Conectar!
 
-- 📫 Como me encontrar: [LinkedIn]([https://www.linkedin.com/in/gildokomba](https://ao.linkedin.com/in/walter-alexandre-santana-235191268)) | [Twitter]([https://twitter.com/gildokomba](https://twitter.com/WalterS11679003))
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato divertido: Já construí um robô que pode desenhar formas básicas!
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/gildokomba](https://ao.linkedin.com/in/walter-alexandre-santana-235191268)) | [Twitter]([https://twitter.com/gildokomba](https://twitter.com/WalterS11679003))
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have built a robot that can draw basic shapes!
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
