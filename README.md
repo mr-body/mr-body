@@ -1,82 +1,61 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=004C00F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Mr.</Body>;I'm+18+years+old;I'm+a+Software+Developer;I'am+from+Angola;I+Study+at+42+Luanda;welcome%3A)](https://git.io/typing-svg)
+# Gildo Komba
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<pre>
-Hi! 👋, I'm <i>Gildo Komba.</i>
-Intra: <i>gkomba</i>
-<ul>
-   <li>🌱 I'm programming since 2024. The first programming language I learned was C. 
-   I'm currently studying at @42School in Luanda, Angola.
-   Here I'm posting some of the projects I do during my curriculum.</li>
-</ul>
-</pre>
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomba&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/gkomba)
+![Programador da Rede 42](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg) <!-- Banner GIF -->
+
+## Olá! 👋
+
+Meu nome é **Gildo Komba** e tenho 18 anos. Sou um desenvolvedor de software da **Angola**, atualmente estudando na **42 Luanda**.
+
+🌱 Comecei a programar em 2024 e a primeira linguagem que aprendi foi **C**. Atualmente, estou me aprofundando em várias tecnologias e projetos enquanto estudo na 42.
+
+## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
 
-## Mr.Body
+## Projetos
 
+### Projetos da 42 Luanda
 
-<table>
-<tr>
-<th align="left"> &nbsp; 42 Projects</th>
-</tr>
-<tr>
+| Projeto | Link |
+|--|--|
+| [ft_printf](https://github.com/mr-body/ft_printf) | |
+| [libft](https://github.com/mr-body/libft) | |
+| [gnl](https://github.com/mr-body/gnl_42) | |
+| [Born2BeRoot](https://github.com/mr-body/Born2BeRoot) | |
+| [Minitalk](https://github.com/mr-body/minitalk) | |
+| [So_long](https://github.com/mr-body/so_long) | |
+| [push_swap](https://github.com/mr-body/push_swap) | |
+| [philosophers](https://github.com/mr-body/philosophers) | |
 
-<td>
+### Outros Projetos
 
-| 42 Launda  | [ft_printf](https://github.com/mr-body/ft_printf) | [libft](https://github.com/mr-body/libft) | [gnl](https://github.com/mr-body/gnl_42) | [Born2BeRoot](https://github.com/mr-body/Born2BeRoot) | [Minitalk](https://github.com/mr-body/minitalk) | [So_long](https://github.com/mr-body/so_long) | [push_swap](https://github.com/mr-body/push_swap)|[philosophers](https://github.com/mr-body/philosophers)|
-|--|--|--|--|--|--|--|--|--|
-</td> </tr> </table>
+| Projeto | Link |
+|--|--|
+| [androbridge](https://github.com/mr-body/androbridge) | |
+| [NIF_API](https://github.com/mr-body/NIF_API) | |
+| [Desktop-Box](https://github.com/mr-body/Desktop-Box) | |
+| [data-analisy](https://github.com/mr-body/data-analisy) | |
+| [ShopBox](https://github.com/mr-body/ShopBox) | |
 
-<table>
-<tr>
-<th align="left"> &nbsp; let's go</th>
-</tr>
-<tr>
+## Estatísticas
 
-<td>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkomba&show_icons=true&hide_border=true&theme=vue-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomba&layout=compact&hide=roff&langs_count=8&theme=vue-dark&hide_border=true)
 
-| My projects | [androbridge](https://github.com/mr-body/androbridge) | [NIF_API](https://github.com/mr-body/NIF_API) | [Desktop-Box](https://github.com/mr-body/Desktop-Box) | [data-analisy](https://github.com/mr-body/data-analisy) | [ShopBox](https://github.com/mr-body/ShopBox) |
-|--|--|--|--|--|--|
+## Vamos Conectar!
 
-</td> </tr> </table>
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gildokomba) | [Twitter](https://twitter.com/gildokomba)
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato divertido: Já construí um robô que pode desenhar formas básicas!
 
-<br>
-
-## 42 Common Core Student
-
-
-</td>
-
-</tr> </table>
-
-
-<br>
-
-
-![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
