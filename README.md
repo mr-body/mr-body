@@ -1,6 +1,22 @@
 # Walter Santana
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=004C00F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Mr.</Body>;I'm+18+years+old;I'm+a+Software+Developer;I'am+from+Angola;I+Study+at+42+Luanda;welcome%3A)](https://git.io/typing-svg)
 
+#
+<p float="left" align="left">
+  &nbsp;
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_piscine.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png" width="265"/>
+  </a>
+   &nbsp;
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_born2beroot.png" width="265"/>
+  </a>
+</p>
+
 ## Hello! 👋
 
 My name is **Walter Alexandre Santana** and I am 18 years old. I am a software developer from **Angola**, currently studying at **42 Luanda**.
@@ -47,19 +63,19 @@ My name is **Walter Alexandre Santana** and I am 18 years old. I am a software d
 
 ### Outros Projetos
 
-| Projeto | Descricao |
+| Projects | Descrition |
 |--|--|
 | [androbridge](https://github.com/mr-body/androbridge) | ADB + scrcpy desktop cell phone control |
 | [NIF_API](https://github.com/mr-body/NIF_API) | API for NIF lookup|
 | [Desktop-Box](https://github.com/mr-body/Desktop-Box) |Stock management app in C# |
 | [ShopBox](https://github.com/mr-body/ShopBox) | Online sales system in Python + Flask|
 
-## Estatísticas
+## Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waalexan&show_icons=true&hide_border=true&theme=vue-dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waalexan&layout=compact&hide=roff&langs_count=8&theme=vue-dark&hide_border=true)
 
-## Vamos Conectar!
+## Let's connect
 
 - 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/gildokomba](https://ao.linkedin.com/in/walter-alexandre-santana-235191268)) | [Twitter]([https://twitter.com/gildokomba](https://twitter.com/WalterS11679003))
 - 😄 Pronouns: He/Him
