@@ -75,6 +75,23 @@ My name is **Walter Alexandre Santana** and I am 18 years old. I am a software d
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waalexan&show_icons=true&hide_border=true&theme=vue-dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waalexan&layout=compact&hide=roff&langs_count=8&theme=vue-dark&hide_border=true)
 
+<details>
+<summary><b>Skills</b></summary>
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,java,python,php)](https://skillicons.dev)
+
+</div>
+   
+<summary><b>Learning</b></summary>
+<div>
+  
+[![Learning](https://skillicons.dev/icons?i=htmx,go,nextjs,dart,flutter)](https://skillicons.dev)
+  
+</div>
+</details>
+
+
 ## Let's connect
 
 - 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/gildokomba](https://ao.linkedin.com/in/walter-alexandre-santana-235191268)) | [Twitter]([https://twitter.com/gildokomba](https://twitter.com/WalterS11679003))
