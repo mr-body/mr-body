@@ -79,8 +79,11 @@ My name is **Walter Alexandre Santana** and I am 18 years old. I am a software d
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waalexan&show_icons=true&hide_border=true&theme=vue-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waalexan&layout=compact&hide=roff&langs_count=8&theme=vue-dark&hide_border=true)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mr-body&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=151B23" alt="Madriano-dev github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-body&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=151B23" />
+</div>
 
 <details>
 <summary><b>Skills</b></summary>
