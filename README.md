@@ -21,7 +21,7 @@
 
 ## Hello! 👋
 
-My name is **Walter Alexandre Santana** and I am 18 years old. I am a software developer from **Angola**, currently studying at **42 Luanda**.
+My name is **Walter Alexandre Santana** and I am 19 years old. I am a software developer from **Angola**, currently studying at **42 Luanda**.
 
 🌱 I started programming in 2024, and the first language I learned was **C**. Currently, I am diving into various technologies and projects while studying at 42.
 
